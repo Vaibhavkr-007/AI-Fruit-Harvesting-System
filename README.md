@@ -52,7 +52,7 @@ Open your terminal and run the following commands:
 ```bash
 # Clone the repository
 git clone https://github.com/Vaibhavkr-007/AI-Fruit-Harvesting-System.git
-cd your-repo-name
+cd AI-Fruit-Harvesting-System
 
 # Create a virtual environment named 'venv'
 python -m venv venv
