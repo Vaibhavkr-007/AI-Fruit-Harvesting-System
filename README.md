@@ -51,7 +51,7 @@ Open your terminal and run the following commands:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/Vaibhavkr-007/AI-Fruit-Harvesting-System.git
 cd your-repo-name
 
 # Create a virtual environment named 'venv'
